@@ -16,7 +16,7 @@
                     </div>
                     <div class="button">
                         <div class="float-left price"> €12 </div>
-                        <a href="#" class="btn btn-primary float-right"> Add to cart </a>
+                        <a href="#" class="btn btn-success float-right"> Add to cart </a>
                     </div>
                 </div>
             </div>
@@ -31,7 +31,7 @@
                     </div>
                     <div class="button">
                         <div class="float-left price"> €12 </div>
-                        <a href="#" class="btn btn-primary float-right"> Add to cart </a>
+                        <a href="#" class="btn btn-success float-right"> Add to cart </a>
                     </div>
                 </div>
             </div>
@@ -46,7 +46,7 @@
                     </div>
                     <div class="button">
                         <div class="float-left price"> €12 </div>
-                        <a href="#" class="btn btn-primary float-right"> Add to cart </a>
+                        <a href="#" class="btn btn-success float-right"> Add to cart </a>
                     </div>
                 </div>
             </div>
@@ -66,7 +66,7 @@
                     </div>
                     <div class="button">
                         <div class="float-left price"> €12 </div>
-                        <a href="#" class="btn btn-primary float-right"> Add to cart </a>
+                        <a href="#" class="btn btn-success float-right"> Add to cart </a>
                     </div>
                 </div>
             </div>
@@ -81,7 +81,7 @@
                     </div>
                     <div class="button">
                         <div class="float-left price"> €12 </div>
-                        <a href="#" class="btn btn-primary float-right"> Add to cart </a>
+                        <a href="#" class="btn btn-success float-right"> Add to cart </a>
                     </div>
                 </div>
             </div>
@@ -96,7 +96,7 @@
                     </div>
                     <div class="button">
                         <div class="float-left price"> €12 </div>
-                        <a href="#" class="btn btn-primary float-right"> Add to cart </a>
+                        <a href="#" class="btn btn-success float-right"> Add to cart </a>
                     </div>
                 </div>
             </div>
